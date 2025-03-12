@@ -25,7 +25,7 @@ This project is a Java-based software application that enables users to perform 
 
 ->Set up a compatible database management system (MySQL, Oracle, PostgreSQL, etc.) and create a database for the application.
 
-->Download or clone the project repository from https://github.com/Arpitpatel1706/Java-Menu-Driven-Banking-Application-with-JDBC.
+->Download or clone the project repository from https://github.com/preetiskncoe/Banking-Application-JDBC
 
 ->Open the project in an integrated development environment (IDE) such as Eclipse or IntelliJ IDEA.
 
